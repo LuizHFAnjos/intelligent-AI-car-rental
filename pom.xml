@@ -40,6 +40,19 @@
 			<artifactId>spring-boot-starter-webmvc-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>dev.langchain4j</groupId>
+			<artifactId>langchain4j-google-ai-gemini-spring-boot4-starter</artifactId>
+			<version>1.23.0-beta33</version>
+		</dependency>
+
+		<dependency>
+			<groupId>dev.langchain4j</groupId>
+			<artifactId>langchain4j-spring-boot4-starter</artifactId>
+			<version>1.23.0-beta33</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
